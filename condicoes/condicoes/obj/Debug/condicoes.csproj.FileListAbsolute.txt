@@ -1,0 +1,7 @@
+D:\acer(ARQUIVOS)\Documents\c#\condicoes\condicoes\obj\Debug\condicoes.csproj.AssemblyReference.cache
+D:\acer(ARQUIVOS)\Documents\c#\condicoes\condicoes\obj\Debug\condicoes.csproj.CoreCompileInputs.cache
+D:\acer(ARQUIVOS)\Documents\c#\condicoes\condicoes\bin\Debug\condicoes.exe.config
+D:\acer(ARQUIVOS)\Documents\c#\condicoes\condicoes\bin\Debug\condicoes.exe
+D:\acer(ARQUIVOS)\Documents\c#\condicoes\condicoes\bin\Debug\condicoes.pdb
+D:\acer(ARQUIVOS)\Documents\c#\condicoes\condicoes\obj\Debug\condicoes.exe
+D:\acer(ARQUIVOS)\Documents\c#\condicoes\condicoes\obj\Debug\condicoes.pdb

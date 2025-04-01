@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\acer(ARQUIVOS)\\Documents\\c#\\Variaveis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F59D00E1-E59F-45A2-B328-D7E8D5048C7B}|Variaveis\\Variaveis.csproj|d:\\acer(arquivos)\\documents\\c#\\variaveis\\variaveis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59D00E1-E59F-45A2-B328-D7E8D5048C7B}|Variaveis\\Variaveis.csproj|solutionrelative:variaveis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\acer(ARQUIVOS)\\Documents\\c#\\Variaveis\\Variaveis\\Program.cs",
+              "RelativeDocumentMoniker": "Variaveis\\Program.cs",
+              "ToolTip": "D:\\acer(ARQUIVOS)\\Documents\\c#\\Variaveis\\Variaveis\\Program.cs*",
+              "RelativeToolTip": "Variaveis\\Program.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T00:14:22.559Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
